@@ -101,6 +101,12 @@ Richard Matthew Stallman, connu aussi sous les initiales rms, est un programmeur
   
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsP7yWjt2yD1aZqxMohLPC511uPbW40Ar95nPBCflGXtGAuExdog" alt="photo de Richard Stallman">  
   
+### [Comment fonctionnent les bang de Duck Duck Go ?](https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiT4NLlrtvSAhUEWRoKHUoQC7oQFggaMAA&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FDuckDuckGo&usg=AFQjCNF2AfkDDEts767xfeGBMrGwgdSnOg&sig2=qEPK2qzy3cZtOKCzzYOJJQ)  
+  
+DuckDuckGo est un méta-moteur de recherche dont la société éditrice est située à Valley Forge en Pennsylvanie. Il se distingue en utilisant les informations de crowdsourcing provenant d'autres sites (comme Wikipédia) dans le but d'enrichir les résultats traditionnels et d'améliorer la pertinence. Il propose aussi son propre moteur de recherche.  
+  
+  
+  
 
   
 
