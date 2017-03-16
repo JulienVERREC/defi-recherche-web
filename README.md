@@ -46,7 +46,18 @@ Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayn
   
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Steve_Wozniak.jpg/220px-Steve_Wozniak.jpg" alt="photo de Monsieur Steve_Wozniak">  
   
+### D'où vient l'expression "bug informatique" ?  
   
+En informatique, un bug (mot anglais bug) ou bogue (au Nouveau-Brunswick, au Québec et en France) est un défaut de conception d'un programme informatique à l'origine d'un dysfonctionnement.
+
+La gravité du dysfonctionnement peut aller de bénigne (défauts d’affichage mineurs) à majeure (crash système pouvant entraîner de graves accidents : par exemple, l'explosion du Vol 501 d'Ariane 5).
+
+Un bug peut résider dans un logiciel applicatif, dans les logiciels tiers utilisés par ce logiciel applicatif, voire dans le firmware d'un composant matériel comme ce fut le cas du bug de la division du Pentium. Un patch (terme francisé en « retouche » ou « correctif ») est un morceau de logiciel destiné à corriger un ou plusieurs bugs.  
+  
+
+  
+  
+
   
 
   
