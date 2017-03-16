@@ -87,6 +87,10 @@ Il se suicide le 11 janvier 2013 à l'âge de 26 ans dans son appartement. Son p
   
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aaron_Swartz_at_Boston_Wikipedia_Meetup%2C_2009-08-18.jpg/220px-Aaron_Swartz_at_Boston_Wikipedia_Meetup%2C_2009-08-18.jpg" alt="photo d'Aaron Swartz">  
   
+### [Qu’est-ce que le projet GNU ?](https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwj5uZ_hqNvSAhWCtRoKHQJZCbgQFggeMAE&url=https%3A%2F%2Ffsfe.org%2Ffreesoftware%2Fbasics%2Fgnuproject.fr.html&usg=AFQjCNEwpSwMixH4o8XQuFHI3cccGZ2bVw&sig2=ldsLkwqPD7PPGJwIonE5sg)  
+  
+Le Projet GNU a été démarré en septembre 1983 par Richard M. Stallman afin de créer un système d'exploitation complet utilisant du logiciel libre. Le développement du logiciel a débuté en janvier de l'année suivante. De nos jours, il existe plusieurs systèmes d'exploitation libres qui respectent les libertés des utilisateurs en donnant à tout le monde le droit d'utiliser, étudier, partager, et améliorer le logiciel.  
+  
 
   
 
