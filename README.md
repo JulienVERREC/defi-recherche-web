@@ -55,7 +55,20 @@ La gravité du dysfonctionnement peut aller de bénigne (défauts d’affichage 
 Un bug peut résider dans un logiciel applicatif, dans les logiciels tiers utilisés par ce logiciel applicatif, voire dans le firmware d'un composant matériel comme ce fut le cas du bug de la division du Pentium. Un patch (terme francisé en « retouche » ou « correctif ») est un morceau de logiciel destiné à corriger un ou plusieurs bugs.  
   
 
+### Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?  
   
+#### Le Réseau TechPlaces et des lieux associés
+La Cantine Toulouse, membre du Réseau TechPlaces  
+  
+Inscrite dans la dynamique de la FrenchTech, l’association loi 1901 TechPlaces fédère depuis 2012 les espaces d’émulation numérique autour d’un objectif commun : promouvoir les initiatives innovantes à travers le partage d’expériences. Le fonctionnement en réseau est une organisation efficace qui permet de bénéficier au mieux de l’expérience de chacun des membres, de mutualiser les moyens, la communication et d’encourager les synergies.
+
+Depuis mars 2016, le Réseau des Cantines et des Lieux Associés devient le Réseau TECHPLACES.  
+  
+>>Evènements  
+  
+> * [Petit déjeuner de présentation de La Mêlée]("http://lacantine-toulouse.org/7701/petit-dejeuner-de-presentation-de-la-melee") 
+  
+
   
 
   
