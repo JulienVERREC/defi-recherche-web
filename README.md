@@ -105,7 +105,11 @@ Richard Matthew Stallman, connu aussi sous les initiales rms, est un programmeur
   
 DuckDuckGo est un méta-moteur de recherche dont la société éditrice est située à Valley Forge en Pennsylvanie. Il se distingue en utilisant les informations de crowdsourcing provenant d'autres sites (comme Wikipédia) dans le but d'enrichir les résultats traditionnels et d'améliorer la pertinence. Il propose aussi son propre moteur de recherche.  
   
+### [Qui est Marissa Mayer ?](https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwimgMDyr9vSAhXBWhoKHZzVA-8QFggiMAI&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FMarissa_Mayer&usg=AFQjCNF6TCY6olZqxGXWTUS7zWV9xgYJMQ&sig2=39lCxa7zfetLp5CWy1wY-w)  
   
+Marissa Ann Mayer, née le 30 mai 1975 à Wausau dans le Wisconsin, est une informaticienne et chef d'entreprise américaine. Elle occupe de 2012 à 2017 le poste de PDG de Yahoo! après 13 ans chez Google en tant que vice-présidente1 responsable des services de cartographie et de géolocalisation.  
+  
+
   
 
   
