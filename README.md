@@ -12,10 +12,10 @@ Internet est le réseau informatique mondial, c'est l'infrastructure globale, ba
   
 ### Qu’est-ce que cela :  
   
->*8.8.8.8: serveur DNS primaire de Google.  
->*192.168.0.1: adresse IP d'un modem ou routeur internet.  
->*255.255.255.0: masque de sous réseaux.  
->*127.0.0.1: Localhost. Traduction de hôte local en anglais, le localhost se réfère à l'ordinateur local et est associé à l'adresse IP 127.0.0.1 en IPV4 (le codage utilisé actuellement). Cette notion est utilisée pour simuler des communications IP sur un ordinateur mais sans envoyer de messages sur le réseau.  
+>* 8.8.8.8: serveur DNS primaire de Google.  
+>* 192.168.0.1: adresse IP d'un modem ou routeur internet.  
+>* 255.255.255.0: masque de sous réseaux.  
+>* 127.0.0.1: Localhost. Traduction de hôte local en anglais, le localhost se réfère à l'ordinateur local et est associé à l'adresse IP 127.0.0.1 en IPV4 (le codage utilisé actuellement). Cette notion est utilisée pour simuler des communications IP sur un ordinateur mais sans envoyer de messages sur le réseau.  
   
 ### Que signifie Copyright et Copyleft?  
   
