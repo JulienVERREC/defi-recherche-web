@@ -109,6 +109,10 @@ DuckDuckGo est un méta-moteur de recherche dont la société éditrice est situ
   
 Marissa Ann Mayer, née le 30 mai 1975 à Wausau dans le Wisconsin, est une informaticienne et chef d'entreprise américaine. Elle occupe de 2012 à 2017 le poste de PDG de Yahoo! après 13 ans chez Google en tant que vice-présidente1 responsable des services de cartographie et de géolocalisation.  
   
+### [Qu’est-ce qu’une attaque “brute force” ?](https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi08_vwsNvSAhUGVxoKHUN-CPIQFggaMAA&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FAttaque_par_force_brute&usg=AFQjCNEijJUeTIA4qgVCDMABTtRo_oXzcA&sig2=A-X0xViWBqAoEF-gRNtFZA)  
+  
+L'attaque par force brute est une méthode utilisée en cryptanalyse pour trouver un mot de passe ou une clé. Il s'agit de tester, une à une, toutes les combinaisons possibles.  
+  
 
   
 
