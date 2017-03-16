@@ -91,6 +91,10 @@ Il se suicide le 11 janvier 2013 à l'âge de 26 ans dans son appartement. Son p
   
 Le Projet GNU a été démarré en septembre 1983 par Richard M. Stallman afin de créer un système d'exploitation complet utilisant du logiciel libre. Le développement du logiciel a débuté en janvier de l'année suivante. De nos jours, il existe plusieurs systèmes d'exploitation libres qui respectent les libertés des utilisateurs en donnant à tout le monde le droit d'utiliser, étudier, partager, et améliorer le logiciel.  
   
+### Quelles sont les différences entre le Http et le Https ?  
+  
+HTTP signifie "HyperText Transport Protocol", communément appelé un protocole pour les informations transmises entre les serveurs web et leurs clients. C'est la lettre S qui fait toute la différence entre HTTP et HTTPS. Le S est synonyme de Secure (sécurité).  
+  
 
   
 
