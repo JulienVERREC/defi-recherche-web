@@ -23,8 +23,17 @@ Le copyleft, parfois traduit comme gauche d'auteur, est l'autorisation donnée p
 
 L'auteur refuse donc que l'évolution possible de son travail soit accompagnée d'une restriction du droit à la copie, à l'étude, ou à de nouvelles évolutions. De ce fait, le contributeur apportant une modification (correction, ajout, réutilisation, etc.) est contraint de redistribuer ses propres contributions avec les mêmes libertés que l'original. Autrement dit, les nouvelles créations réalisées à partir d'œuvres sous copyleft héritent de fait de ce statut de copyleft : ainsi, ce type de licence permet un partage de la création ou de la connaissance, comme bien commun, qui permet aux œuvres culturelles d'être développées librement.  
   
-
-
+### Que sont les Creatives Commons ?  
+  
+Creative Commons (CC) est une organisation à but non lucratif dont le but est de proposer une solution alternative légale aux personnes souhaitant libérer leurs œuvres des droits de propriété intellectuelle standard de leur pays, jugés trop restrictifs1. L’organisation a créé plusieurs licences, connues sous le nom de licences Creative Commons. Ces licences, selon leur choix, donnent aucun ou seulement quelques droits aux travaux. Le droit d'auteur (ou « copyright » dans les pays du Commonwealth et aux États-Unis) est plus restrictif.  
+  
+  
+### Qui est Grace Hopper?  
+  
+Grace Murray Hopper, née le 9 décembre 1906 à New York et morte le 1er janvier 1992 dans le comté d'Arlington, est une informaticienne américaine et Rear admiral (lower half) de la marine américaine. Elle est la conceptrice du premier compilateur en 1951 (A-0 System) et du langage COBOL en 1959.  
+  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Grace_Hopper_and_UNIVAC.jpg/220px-Grace_Hopper_and_UNIVAC.jpg">
+  
 
 
 
