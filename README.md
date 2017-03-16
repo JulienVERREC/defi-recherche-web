@@ -71,6 +71,22 @@ Depuis mars 2016, le Réseau des Cantines et des Lieux Associés devient le Rés
 > * [Sandwich connection](http://lacantine-toulouse.org/7697/sandwich-connection-comment-creer-gerer-sa-page-facebook-entreprise)  
   
 
+### Qui est Aaron Swartz ?  
+  
+Aaron Hillel Swartz (né le 8 novembre 1986 à Chicago, mort le 11 janvier 2013 à New York) est un informaticien américain, écrivain, meneur politique et militant de l'Internet.
+
+Swartz s'est impliqué dans le développement du format de flux Web RSS, l'organisation Creative Commons, le cadriciel de site Web web.py et le site d'actualité Reddit, dans lequel il est devenu associé après fusion avec sa compagnie, Infogaminote .
+
+Les travaux de Swartz ont également porté sur la sociologie, l'éducation civique et le militantisme.
+
+Il a aidé à lancer le Progressive Change Campaign Committee (en) en 2009, afin d'en apprendre plus sur le cybermilitantisme et son efficacité. En 2010, il est devenu chercheur au laboratoire « Safra » de recherche sur la corruption institutionnelle de l'université Harvard, dirigé par Lawrence Lessig.
+
+Il a fondé le cyber-groupe Demand Progress, connu pour sa campagne contre le Stop Online Piracy Act (SOPA).
+
+Il se suicide le 11 janvier 2013 à l'âge de 26 ans dans son appartement. Son procès fédéral en lien avec des accusations de fraude électronique devait débuter le mois suivant.  
+  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aaron_Swartz_at_Boston_Wikipedia_Meetup%2C_2009-08-18.jpg/220px-Aaron_Swartz_at_Boston_Wikipedia_Meetup%2C_2009-08-18.jpg" alt="photo d'Aaron Swartz">  
+  
 
   
 
