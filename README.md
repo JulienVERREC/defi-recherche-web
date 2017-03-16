@@ -32,7 +32,13 @@ Creative Commons (CC) est une organisation à but non lucratif dont le but est d
   
 Grace Murray Hopper, née le 9 décembre 1906 à New York et morte le 1er janvier 1992 dans le comté d'Arlington, est une informaticienne américaine et Rear admiral (lower half) de la marine américaine. Elle est la conceptrice du premier compilateur en 1951 (A-0 System) et du langage COBOL en 1959.  
   
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Grace_Hopper_and_UNIVAC.jpg/220px-Grace_Hopper_and_UNIVAC.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Grace_Hopper_and_UNIVAC.jpg/220px-Grace_Hopper_and_UNIVAC.jpg" alt="photo de Madame Hopper">  
+  
+### Qu'est-ce que Qwant ?  
+  
+Qwant est un moteur de recherche français, créé le 16 février 2013, puis lancé en version définitive le 4 juillet 2013. Il annonce ne pas tracer ses utilisateurs afin de garantir la vie privée, et se veut neutre dans l'affichage des résultats.  
+  
+
   
 
 
