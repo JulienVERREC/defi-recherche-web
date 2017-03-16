@@ -113,6 +113,14 @@ Marissa Ann Mayer, née le 30 mai 1975 à Wausau dans le Wisconsin, est une info
   
 L'attaque par force brute est une méthode utilisée en cryptanalyse pour trouver un mot de passe ou une clé. Il s'agit de tester, une à une, toutes les combinaisons possibles.  
   
+### [Qui est Linus Torvalds ?](https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjuy_CUs9vSAhWE1xoKHdz1BscQFggiMAI&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FLinus_Torvalds&usg=AFQjCNHBu_oEHb7metHdLPHO7zKx9v4yiQ&sig2=wp1KDdHDxXFSmuz7nzdFQQ)  
+  
+Linus Benedict Torvalds, né le 28 décembre 1969 à Helsinki en Finlande, est un informaticien américano-finlandais.
+
+Il est connu pour avoir créé en 1991 le noyau Linux dont il continue de diriger le développement. Il en est considéré comme le « dictateur bienveillant »  
+  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinuxCon_Europe_Linus_Torvalds_03_(cropped).jpg/220px-LinuxCon_Europe_Linus_Torvalds_03_(cropped).jpg" alt="photo de Linus Torvalds">  
+  
 
   
 
