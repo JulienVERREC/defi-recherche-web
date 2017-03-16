@@ -66,7 +66,12 @@ Depuis mars 2016, le Réseau des Cantines et des Lieux Associés devient le Rés
   
 >>Evènements  
   
-> * [Petit déjeuner de présentation de La Mêlée](http://lacantine-toulouse.org/7701/petit-dejeuner-de-presentation-de-la-melee)
+> * [Petit déjeuner de présentation de La Mêlée](http://lacantine-toulouse.org/7701/petit-dejeuner-de-presentation-de-la-melee)  
+> * [joomapéro](http://lacantine-toulouse.org/7651/joomapero)  
+> * [Sandwich connection](http://lacantine-toulouse.org/7697/sandwich-connection-comment-creer-gerer-sa-page-facebook-entreprise)  
+  
+
+
   
 
   
